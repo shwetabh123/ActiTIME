@@ -1,0 +1,7 @@
+<suite name="ActiTIMESuite" parallel="none">
+  <test name="TestChrome">
+	<packages>
+		<package name="com.actitime.test"/>
+	</packages>
+  </test>
+</suite>
